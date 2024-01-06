@@ -1,0 +1,20 @@
+{
+  "format_version": "1.1",
+  "package_name": "gn/gn/linux-amd64",
+  "version_file": ".versions/gn.cipd_version",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "gn",
+      "size": 8268112,
+      "executable": true,
+      "hash": "_U7g4lUyEgkiOwWxIW2UWsuJyGxrufTv4GfZAPX8tm0C"
+    },
+    {
+      "name": ".versions/gn.cipd_version",
+      "size": 106,
+      "hash": "-XfJ_6EfzKf7Ufgdd5hD8iS-3eeE2Hf27bBUGB3-FTMC"
+    }
+  ]
+}
